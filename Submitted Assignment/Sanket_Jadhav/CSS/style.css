@@ -1,0 +1,329 @@
+body {
+    background-color: #faf6f6;
+    color: #f6f3f3;
+}
+
+.menu-list-group {
+  position: absolute;
+}
+
+.menu-list-group:nth-child(odd) {
+  width: 103mm;
+    height: auto;
+    border: #05050508 solid 1pt;
+    position: absolute;
+    left: 20mm;
+    top: 85mm;
+}
+
+.menu-list-group:nth-child(even) {
+  width: 100mm;
+    height: auto;
+    border: #09040400 solid 1pt;
+    position: absolute;
+    right: 9mm;
+    bottom: 2mm;
+}
+
+body .menu-wrapper {
+    border: 1pt solid rgb(3, 3, 3);
+   margin: auto;
+   overflow: hidden;
+   background-blend-mode: multiply,multiply;
+   left: auto;
+   top: auto;
+   width: 250mm;
+   border-radius: 10mm;
+   height: 350mm;
+   position: relative;
+   background-color: rgb(249, 233, 223);
+ }
+ 
+ 
+
+ 
+.box1
+ {
+  border-radius: 30mm;
+  height: 527pt;
+  width: 100pt;
+  position: absolute;
+  left: 121pt;
+  transform: rotate(90deg);
+  top: -79pt;
+  background-color: rgb(249, 188, 186);
+ }
+/*
+.box2
+ {
+   height: 149pt;
+    width: 192pt;
+    position: absolute;
+    left: 513pt;
+    top: 249pt;
+    background-color: #FFEB3B;
+}
+
+.box3
+ {
+   height: 149pt;
+    width: 192pt;
+    position: absolute;
+    left: 0pt;
+    bottom: 88pt;
+    background-color: #FFEB3B;
+}*/
+
+
+ 
+.box4
+{
+  height: 44pt;
+    width: 139pt;
+    position: absolute;
+    right: 167pt;
+    bottom: 325pt;
+    background-color: rgb(254, 254, 251);
+}
+ 
+ 
+.box5
+{
+  height: 45pt;
+    width: 105pt;
+    position: absolute;
+    left: 58pt;
+    top: 242pt;
+    background-color: rgb(254, 254, 253);
+}
+ /*
+ .borders
+ {
+   position: relative;
+    top: 123pt;
+    left: 75pt;
+    width: 51pt;
+    border-top: 3pt solid #161615;
+ }*/
+
+ .restorent-name
+ {
+  color: white;
+  font-weight: bolder;
+  font-size: 40pt;
+  font-style: normal;
+  position: relative;
+  left: 11pt;
+  top: 150pt;
+    
+ }
+ 
+ .restorent-discription
+ {
+  color: white;
+    font-weight: bolder;
+    font-size: 40pt;
+    font-style: normal;
+    position: relative;
+    left: 170pt;
+    top: 90pt;
+    
+ }
+ 
+ .restaurant-add-content
+ {
+  width: 1000pt;
+    position: absolute;
+    top: -134pt;
+    left: -335pt;
+    color: #161615;
+ }
+ 
+ .restaurant-phone
+ {
+  position: absolute;
+  top: 147pt;
+  left: 342pt;
+  font-size: 20pt;
+  color: rgb(241, 167, 121);
+ }
+ 
+ .restaurant-web
+ {
+  position: absolute;
+  top: 178pt;
+  left: 342pt;
+  font-size: 20pt;
+  color: rgb(241, 167, 121);
+ }
+ 
+ .restaurant-email
+ {
+  position: absolute;
+    top: 210pt;
+    left: 342pt;
+    font-size: 20pt;
+    color: rgb(241, 167, 121);
+ }
+
+ .menu-list-heading
+ {
+  padding-left: 0mm;
+    padding-bottom: 5mm;
+    font-weight: 900;
+    font-size: 29pt;
+    font-family: auto;
+    /* font-style: oblique; */
+    color: rgb(208, 130, 82);
+    background-color: rgb(249, 233, 223);
+    width: 50mm;
+ }
+
+ 
+ 
+ 
+ .img1
+ {
+  transform: rotateZ(360deg);
+    position: absolute;
+    top: -16pt;
+    right: -556pt;
+    /* size: 65pt; */
+    height: 455pt;
+    /* border-radius: 50%; */
+    object-fit: cover;
+       
+       
+ }
+
+ .img-hover {
+  width: 257pt;
+  transition: transform 6s linear;
+}
+
+.img-hover:hover {
+  animation: rotation 6s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ .img2
+ {
+   transform: rotateY(45deg);
+    position: absolute;
+    top: 591pt;
+    right: 123pt;
+    /* size: 65pt; */
+    height: 35pt;
+ }
+
+
+ .img3
+ {
+  position: absolute;
+    top: 55pt;
+    right: 352pt;
+    /* size: 65pt; */
+    height: 315pt;
+    width: 117mm;
+    object-fit: cover;
+    border-top-right-radius: 20mm;
+
+ }
+
+ .img-hover1 {
+  width: 271pt;
+  transition: transform 6s linear;
+}
+
+.img-hover1:hover {
+  animation: rotation 6s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+ 
+
+ .img4
+ {
+   height: 30pt;
+    position: absolute;
+    top: 142pt;
+    right: 167pt;
+ }
+
+ .img5
+ {
+   height: 30pt;
+    position: absolute;
+    top: 448pt;
+    right: 99pt;
+ }
+
+ .img6
+ {
+  height: 105pt;
+    position: absolute;
+    top: 101pt;
+    right: 295pt;
+    filter: drop-shadow(0px 19px 10px rgba(0, 0, 0, 0.5))
+   
+ }
+
+ .img7
+ {
+   height: 225pt;
+    position: absolute;
+    top: -1pt;
+    right: 0pt;
+ }
+
+ .img8
+ {
+   height: 72pt;
+    position: absolute;
+    top: 120pt;
+    right: 209pt;
+ }
+
+ 
+
+
+
+
+ .menu-list1-price
+ {
+   line-height: 39pt;
+   font-weight: 800;
+    display: grid;
+    font-size: 21pt;
+    position: absolute;
+    top: 294pt;
+    left: 266pt;
+ }
+
+ 
+
+
+ .menu-list-item {
+  line-height: 118%;
+    display: flex;
+    /* align-content: space-evenly; */
+    justify-content: space-between;
+    font-size: xx-large;
+    align-items: center;
+    color:  rgb(195 136 99);
+ }
