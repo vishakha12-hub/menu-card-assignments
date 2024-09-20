@@ -13,16 +13,16 @@ body {
     border: #05050508 solid 1pt;
     position: absolute;
     left: 20mm;
-    top: 85mm;
+    top: 83mm;
 }
 
 .menu-list-group:nth-child(even) {
   width: 100mm;
-    height: auto;
-    border: #09040400 solid 1pt;
-    position: absolute;
-    right: 9mm;
-    bottom: 2mm;
+  height: auto;
+  border: #09040400 solid 1pt;
+  position: absolute;
+  right: 129mm;
+  bottom: 115mm;
 }
 
 body .menu-wrapper {
@@ -45,66 +45,15 @@ body .menu-wrapper {
 .box1
  {
   border-radius: 30mm;
-  height: 527pt;
-  width: 100pt;
+  height: 185.913mm;
+  width: 35.277mm;
   position: absolute;
-  left: 121pt;
+  left: 42.686mm;
   transform: rotate(90deg);
-  top: -79pt;
+  top: -32.808mm;
   background-color: rgb(249, 188, 186);
  }
-/*
-.box2
- {
-   height: 149pt;
-    width: 192pt;
-    position: absolute;
-    left: 513pt;
-    top: 249pt;
-    background-color: #FFEB3B;
-}
 
-.box3
- {
-   height: 149pt;
-    width: 192pt;
-    position: absolute;
-    left: 0pt;
-    bottom: 88pt;
-    background-color: #FFEB3B;
-}*/
-
-
- 
-.box4
-{
-  height: 44pt;
-    width: 139pt;
-    position: absolute;
-    right: 167pt;
-    bottom: 325pt;
-    background-color: rgb(254, 254, 251);
-}
- 
- 
-.box5
-{
-  height: 45pt;
-    width: 105pt;
-    position: absolute;
-    left: 58pt;
-    top: 242pt;
-    background-color: rgb(254, 254, 253);
-}
- /*
- .borders
- {
-   position: relative;
-    top: 123pt;
-    left: 75pt;
-    width: 51pt;
-    border-top: 3pt solid #161615;
- }*/
 
  .restorent-name
  {
@@ -113,8 +62,8 @@ body .menu-wrapper {
   font-size: 40pt;
   font-style: normal;
   position: relative;
-  left: 11pt;
-  top: 150pt;
+  left: 20.461mm;
+  top: 49.741mm;
     
  }
  
@@ -125,45 +74,45 @@ body .menu-wrapper {
     font-size: 40pt;
     font-style: normal;
     position: relative;
-    left: 170pt;
-    top: 90pt;
+    left: 51.858mm;
+    top:28.927mm;
     
  }
  
  .restaurant-add-content
  {
-  width: 1000pt;
+  width: 352.777mm;
     position: absolute;
-    top: -134pt;
-    left: -335pt;
+    top: -47.272mm;
+    left: -118.180mm;
     color: #161615;
  }
  
  .restaurant-phone
  {
   position: absolute;
-  top: 147pt;
-  left: 342pt;
+  top: 990pt;
+  left: 722pt;
   font-size: 20pt;
-  color: rgb(241, 167, 121);
+  color: rgb(163 68 9);
  }
  
  .restaurant-web
  {
   position: absolute;
-  top: 178pt;
-  left: 342pt;
+  top: 359.833mm;
+  left: 254.705mm;
   font-size: 20pt;
-  color: rgb(241, 167, 121);
+  color: rgb(163 68 9);
  }
  
  .restaurant-email
  {
   position: absolute;
-    top: 210pt;
-    left: 342pt;
+    top: 371.122mm;
+    left: 254.705mm;
     font-size: 20pt;
-    color: rgb(241, 167, 121);
+    color: rgb(163 68 9);
  }
 
  .menu-list-heading
@@ -173,7 +122,6 @@ body .menu-wrapper {
     font-weight: 900;
     font-size: 29pt;
     font-family: auto;
-    /* font-style: oblique; */
     color: rgb(208, 130, 82);
     background-color: rgb(249, 233, 223);
     width: 50mm;
@@ -185,19 +133,19 @@ body .menu-wrapper {
  .img1
  {
   transform: rotateZ(360deg);
-    position: absolute;
-    top: -16pt;
-    right: -556pt;
-    /* size: 65pt; */
-    height: 455pt;
-    /* border-radius: 50%; */
-    object-fit: cover;
+  position: absolute;
+  top: -3.527mm;
+  right: -225.072mm;
+
+  height: 218.722mm;
+
+  object-fit: cover;
        
        
  }
 
  .img-hover {
-  width: 257pt;
+  width: 90.663mm;
   transition: transform 6s linear;
 }
 
@@ -217,28 +165,26 @@ body .menu-wrapper {
  {
    transform: rotateY(45deg);
     position: absolute;
-    top: 591pt;
-    right: 123pt;
-    /* size: 65pt; */
-    height: 35pt;
+    top: 208.491mm;
+    right: 43.391mm;
+    height: 12.347mm;
  }
 
 
  .img3
  {
   position: absolute;
-    top: 55pt;
-    right: 352pt;
-    /* size: 65pt; */
-    height: 315pt;
-    width: 117mm;
-    object-fit: cover;
+  top: 78.316mm;
+  right: 2.822mm;
+  height: 111.125mm;
+  width: 117mm;
+  object-fit: cover;
     border-top-right-radius: 20mm;
 
  }
 
  .img-hover1 {
-  width: 271pt;
+  width: 95.602mm;
   transition: transform 6s linear;
 }
 
@@ -259,44 +205,44 @@ body .menu-wrapper {
 
  .img4
  {
-   height: 30pt;
+   height: 10.583mm;
     position: absolute;
-    top: 142pt;
-    right: 167pt;
+    top: 50.094mm;
+    right: 58.913mm;
  }
 
  .img5
  {
-   height: 30pt;
+   height: 10.583mm;
     position: absolute;
-    top: 448pt;
-    right: 99pt;
+    top: 158.044mm;
+    right: 34.925mm;
  }
 
  .img6
  {
-  height: 105pt;
+  height: 37.041mm;
     position: absolute;
-    top: 101pt;
-    right: 295pt;
+    top: 31.75mm;
+    right: 105.127mm;
     filter: drop-shadow(0px 19px 10px rgba(0, 0, 0, 0.5))
    
  }
 
  .img7
  {
-   height: 225pt;
+   height: 79.375mm;
     position: absolute;
-    top: -1pt;
-    right: 0pt;
+    top: -0.352mm;
+    right: 0mm;
  }
 
  .img8
  {
-   height: 72pt;
+   height: 25.4mm;
     position: absolute;
-    top: 120pt;
-    right: 209pt;
+    top: 42.333mm;
+    right: 73.730mm;
  }
 
  
@@ -306,13 +252,13 @@ body .menu-wrapper {
 
  .menu-list1-price
  {
-   line-height: 39pt;
+   line-height: 13.758mm;
    font-weight: 800;
     display: grid;
     font-size: 21pt;
     position: absolute;
-    top: 294pt;
-    left: 266pt;
+    top: 103.716mm;
+    left: 93.838mm;
  }
 
  
@@ -321,7 +267,7 @@ body .menu-wrapper {
  .menu-list-item {
   line-height: 118%;
     display: flex;
-    /* align-content: space-evenly; */
+
     justify-content: space-between;
     font-size: xx-large;
     align-items: center;
