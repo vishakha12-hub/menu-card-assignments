@@ -140,14 +140,13 @@ body .menu-wrapper {
 }
 
 .menu-list-heading {
-  padding-left: 3mm;
+  padding-left: 16mm;
   padding-bottom: 4mm;
   font-weight: 900;
   font-size: 49pt;
-  top: 184mm;
+  top: 171mm;
   position: absolute;
   font-family: auto;
-  /* font-style: oblique; */
   color: #030202;
 }
 
@@ -175,7 +174,7 @@ body .menu-wrapper {
   /* size: 65pt; */
   height: 256pt;
   border-radius: 50%;
-  border: 7px solid red;
+  border: 5.25pt solid red;
   object-fit: cover;
 
 }
