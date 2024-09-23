@@ -15,7 +15,7 @@ body {
 }
 
 .menu-list-group:nth-child(odd) {
-  width: 103mm;
+    width: 103mm;
     height: auto;
     border: #05050508 solid 1pt;
     position: absolute;
